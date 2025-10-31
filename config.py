@@ -16,8 +16,8 @@ class Config:
     
     # Placeholder for development (uses SQLite)
     DB_USER = 'postgres'
-    DB_PASSWORD = 'your_password_here'  # Replace with actual password
-    DB_NAME = 'ecl_db'
+    DB_PASSWORD = '1029'  # Replace with actual password
+    DB_NAME = 'users'
     DB_HOST = 'localhost'  # Replace with actual host
     DB_PORT = '5432'
     DB_SCHEMA = 'dbo'
